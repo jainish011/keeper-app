@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/keeper-app/static/css/main.c20a839f.css",
-    "main.js": "/keeper-app/static/js/main.84878de5.js",
+    "main.js": "/keeper-app/static/js/main.772cc3d9.js",
     "static/js/787.4b64efdf.chunk.js": "/keeper-app/static/js/787.4b64efdf.chunk.js",
     "index.html": "/keeper-app/index.html",
     "main.c20a839f.css.map": "/keeper-app/static/css/main.c20a839f.css.map",
-    "main.84878de5.js.map": "/keeper-app/static/js/main.84878de5.js.map",
+    "main.772cc3d9.js.map": "/keeper-app/static/js/main.772cc3d9.js.map",
     "787.4b64efdf.chunk.js.map": "/keeper-app/static/js/787.4b64efdf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c20a839f.css",
-    "static/js/main.84878de5.js"
+    "static/js/main.772cc3d9.js"
   ]
 }
